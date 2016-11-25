@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1455264224 source:/home/user/Documents/Assignments/Assignment4/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"CommunicationNetwork.h"
+
+1455264224 /home/user/Documents/Assignments/Assignment4/include/CommunicationNetwork.h
+	<iostream>
+
+1455263385 source:/home/user/Documents/Assignments/Assignment4/src/CommunicationNetwork.cpp
+	"CommunicationNetwork.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1455318527 source:/home/user/Documents/Assignments/Assignment4/include/CommunicationNetwork.cpp
+	"CommunicationNetwork.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+

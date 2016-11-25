@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1460142400 source:/home/user/Documents/Assignments/Assignment10/src/Graph.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	"Graph.h"
+
+1460069408 /home/user/Documents/Assignments/Assignment10/include/Graph.h
+	<vector>
+	<iostream>
+
+1460069619 source:/home/user/Documents/Assignments/Assignment10/main.cpp
+	"Graph.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<stdlib.h>
+
